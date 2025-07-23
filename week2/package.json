@@ -1,0 +1,21 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "This is a node.js week2",
+  "main": "index.js",
+  "scripts": { "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronAlijani/SIT725-2025.git"
+  },
+  "author": "Aaron Alijani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AaronAlijani/SIT725-2025/issues"
+  },
+  "homepage": "https://github.com/AaronAlijani/SIT725-2025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
