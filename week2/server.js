@@ -30,7 +30,6 @@ app.get('/multiple', (req, res) => {
 
 
 
-// Optional: POST endpoint to add a new quote
 app.listen(PORT, () => {
     console.log("App is now listening to user requests");
     console.log("Access this servis at http://localhost: " + PORT);
